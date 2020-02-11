@@ -1,0 +1,9 @@
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\bin\Debug\TeknikEnvanter2.exe.config
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\bin\Debug\TeknikEnvanter2.exe
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\bin\Debug\TeknikEnvanter2.pdb
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\obj\Debug\TeknikEnvanter2.csprojAssemblyReference.cache
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\obj\Debug\TeknikEnvanter2.Properties.Resources.resources
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\obj\Debug\TeknikEnvanter2.csproj.GenerateResource.cache
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\obj\Debug\TeknikEnvanter2.exe
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\obj\Debug\TeknikEnvanter2.pdb
+C:\Users\nebib\source\repos\TeknikEnvanter2\TeknikEnvanter2\obj\Debug\TeknikEnvanter2.Form1.resources
