@@ -1,0 +1,14 @@
+﻿@model List<Person>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="personGrid"></div>
+
+<script src="~/js/home.js"></script>
+
+<script>
+    jQuery(document).ready(function () {
+    Home.init(@(Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model))));
+});
+</script>
